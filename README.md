@@ -87,13 +87,10 @@ It also removes duplicate listing URLs within a single execution to help prevent
 
 ## Screenshots
 
-### 1. Console Output
-![Console Output](screenshots/output1.png)
-
-### 2. Final Results Summary
+### 1. Final Results Summary
 ![Final Results Summary](screenshots/output2.png)
 
-### 3. Google Form Automation Using Selenium
+### 2. Google Form Automation Using Selenium
 ![Google Form Selenium Automation](screenshots/google_form.png)
 
 
